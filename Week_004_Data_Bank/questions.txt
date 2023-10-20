@@ -1,0 +1,21 @@
+001_Customer_Nodes_Exploration
+
+    001_How_many_unique_nodes_are_there_on_the_Data_Bank_system.sql
+    002_What_is_the_number_of_nodes_per_region.sql
+    003_How_many_customers_are_allocated_to_each_region.sql
+    004_How_many_days_on_average_are_customers_reallocated_to_a_different_node.sql
+    005_What_is_the_median_80th_and_95th_percentile_for_this_same_reallocation_days_metric_for_each_region.sql
+
+002_Customer_Transactions
+
+    001_What_is_the_unique_count_and_total_amount_for_each_transaction_type.sql
+    002_What_is_the_average_total_historical_deposit_counts_and_amounts_for_all_customers.sql
+    003_For_each_month_-_how_many_Data_Bank_customers_make_more_than_1_deposit_and_either_1_purchase_or_1_withdrawal_in_a_single_month.sql
+    004_What_is_the_closing_balance_for_each_customer_at_the_end_of_the_month.sql
+    005_What_is_the_percentage_of_customers_who_increase_their_closing_balance_by_more_than_5.sql
+
+Data_Allocation_Challenge
+
+Extra_Challenge
+
+Extension_Request
