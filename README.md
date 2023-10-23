@@ -32,14 +32,14 @@ The 8 Week SQL Challenge is structured to enhance SQL skills progressively, tack
 
 ## 💡 The Solutions
 
-1. [**Dannys Diner 🍽️**](Week_001_Dannys_Diner)
-1. [**Pizza Runner 🍕**](Week_002_Pizza_Runner)
-1. [**Foodie Fi 🍲**](Week_003_Foodie_Fi)
-1. [**Data Bank 🏦**](Week_004_Data_Bank)
-1. [**Data Mart 🛒**](Week_005_Data_Mart)
-1. [**Clique Bait 🎣**](Week_006_Clique_Bait)
-1. [**Balanced Tree 🌳**](Week_007_Balanced_Tree)
-1. [**Fresh Segments 🍊**](Week_008_Fresh_Segments)
+1. [**🍽️ Dannys Diner**](Week_001_Dannys_Diner)
+1. [**🍕 Pizza Runner**](Week_002_Pizza_Runner)
+1. [**🍲 Foodie Fi**](Week_003_Foodie_Fi)
+1. [**🏦 Data Bank**](Week_004_Data_Bank)
+1. [**🛒 Data Mart**](Week_005_Data_Mart)
+1. [**🎣 Clique Bait**](Week_006_Clique_Bait)
+1. [**🌳 Balanced Tree**](Week_007_Balanced_Tree)
+1. [**🍊 Fresh Segments**](Week_008_Fresh_Segments)
 
 ## 💻 Technologies Used
 
